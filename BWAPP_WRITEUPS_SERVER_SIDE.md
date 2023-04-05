@@ -1,4 +1,4 @@
-# Reyce Salisbury's BWAPP Vulnerability Writeups
+# Reyce Salisbury's BWAPP Vulnerability Writeups (Server Side Vulns)
 
 ## Table of Contents:
 
